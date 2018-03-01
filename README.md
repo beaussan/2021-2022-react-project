@@ -31,5 +31,5 @@ You will be graded based on :
 
 ## Handout :
 
-Demo of the app the 23 may 2022
-Source code by mail for the 22 22h
+Demo of the app the 10 June 2022
+Source code by mail for the 09 22h
